@@ -1,0 +1,7 @@
+*~
+main
+*.o
+.build.yml.swp 
+*.json
+*.d
+[Vv]code/
